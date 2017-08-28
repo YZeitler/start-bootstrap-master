@@ -39,6 +39,7 @@ header {
     font-size: 40px;
     margin-top: 0;
     margin-bottom: 15px;
+    font-weight: bold;
 }
 
 section {
@@ -52,4 +53,5 @@ section {
     font-style: italic;
     font-weight: 400;
     margin-bottom: 75px;
+    color: gray;
 }
